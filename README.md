@@ -32,12 +32,10 @@ and manage job opportunities and applications.
 
 ### Frontend
 - React.js
-- Tailwind CSS
-- shadcn/ui
-- React Router
+- CSS
 - Redux
 - Axios
-- Framer Motion
+
 
 ### Backend
 - Node.js
@@ -45,7 +43,6 @@ and manage job opportunities and applications.
 - MongoDB
 - Mongoose
 - JWT
-- Cloudinary
 
 ## Project Structure
 
